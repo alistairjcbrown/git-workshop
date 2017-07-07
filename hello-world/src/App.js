@@ -13,6 +13,9 @@ class App extends Component {
         <p>
           Bacon ipsum dolor amet salami shank swine, pastrami sausage jowl brisket landjaeger pig. Pork belly short ribs salami, fatback picanha shank landjaeger ham hock ground round meatball biltong boudin cow. Kevin tail biltong fatback prosciutto chicken burgdoggen flank pork belly pancetta picanha jerky. Boudin alcatra pork belly frankfurter chicken burgdoggen prosciutto corned beef ground round capicola. Doner sausage shoulder tail meatloaf sirloin. Pancetta filet mignon bacon andouille shankle jowl shank turducken swine pastrami strip steak venison.
         </p>
+        <p>
+          Bacon ipsum dolor amet salami shank swine, pastrami sausage jowl brisket landjaeger pig. Pork belly short ribs salami, fatback picanha shank landjaeger ham hock ground round meatball biltong boudin cow. Kevin tail biltong fatback prosciutto chicken burgdoggen flank pork belly pancetta picanha jerky. Boudin alcatra pork belly frankfurter chicken burgdoggen prosciutto corned beef ground round capicola. Doner sausage shoulder tail meatloaf sirloin. Pancetta filet mignon bacon andouille shankle jowl shank turducken swine pastrami strip steak venison.
+        </p>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
